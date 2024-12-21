@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shreyas A</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="coding" width="400" src="https://www.gifcen.com/wp-content/uploads/2023/11/hacker-gif-8.gif">
 
 - 🌱 I’m currently learning **python,java,Flutter**
 
